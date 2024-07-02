@@ -1,5 +1,5 @@
 {% set name = "hepconvert" %}
-{% set version = "1.3.4" %}
+{% set version = "1.3.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/hepconvert-{{ version }}.tar.gz
-  sha256: 258da67e3723fc32bcdc7a1ac85e0488a97d4bf5c3beab46e32972a78af67749
+  sha256: dc65f4d7bbe2d1b6fa68f5cc33f39b949e0c5bcf6a01a401916026aceb7e3eae
 
 build:
   entry_points:
