@@ -152,6 +152,3 @@ Feedstock Maintainers
 * [@matthewfeickert](https://github.com/matthewfeickert/)
 * [@zbilodea](https://github.com/zbilodea/)
 
-
-<!-- dummy commit to enable rerendering -->
-
